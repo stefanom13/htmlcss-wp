@@ -62,8 +62,9 @@ li {
 
 /* main */
 
+}
+
 #cont .container {
-  min-height: 250px;
   background-color: goldenrod;
 }
 
@@ -109,4 +110,10 @@ li {
   border-radius: 5px;
   background-color: chartreuse;
   margin: 2px;
+}
+
+.ban{
+    height: 450px;
+    border-radius: 15px;
+    object-fit: cover;
 }
